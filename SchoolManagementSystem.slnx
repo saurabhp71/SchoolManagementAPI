@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="D:/.net Project/SchoolManagementSystem/SchoolManagement.API/SchoolManagement.API.csproj" />
+  <Project Path="SchoolManagement.Application/SchoolManagement.Application.csproj" Id="fed56419-0d1d-4dd7-81c5-2b09969224e7" />
+  <Project Path="SchoolManagement.Domain/SchoolManagement.Domain.csproj" Id="1753d86b-786b-4205-ae32-05d797af5c4f" />
+  <Project Path="SchoolManagement.Infrastructure/SchoolManagement.Infrastructure.csproj" Id="8068cb0f-8032-4b96-a5bc-a5784aed04c9" />
+  <Project Path="SchoolManagement.Persistence/SchoolManagement.Persistence.csproj" Id="c3574c13-c0b4-4c59-8280-6d834aa39b58" />
+</Solution>
