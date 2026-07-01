@@ -321,6 +321,8 @@ namespace SchoolManagement.Persistence.Repositories
                 }
 
                 employee.FullName = request.FullName;
+                employee.Gender = request.Gender;
+                employee.DateOfBirth = request.DateOfBirth;
                 employee.PhoneNumber = request.PhoneNumber;
                 employee.Email = request.Email;
 
@@ -332,6 +334,7 @@ namespace SchoolManagement.Persistence.Repositories
 
                 employee.CityId = request.CityId;
 
+                employee.JoiningDate = request.JoiningDate;
                 employee.ModifiedDate = DateTime.UtcNow;
                 employee.ModifiedBy = "1";
 
